@@ -1,4 +1,4 @@
-# 🎯 Customer Segmentation Using RFM Analysis and K-Means Clustering
+1# 🎯 Customer Segmentation Using RFM Analysis and K-Means Clustering
 
 ## 📊 Project Overview
 
@@ -75,6 +75,7 @@ The notebook includes:
 ## 🔗 Related Project
 
 This project is part of a broader customer segmentation analysis using the same dataset. The companion project, [Rule-Based RFM Customer Segmentation](https://github.com/Starmos86/Rule-Based-RFM-Customer-Segmentation/blob/main/Rule-based%20RFM%20Customer%20Segmentation.ipynb), explores a traditional quantile-based RFM segmentation framework, providing a comparative perspective against this machine learning–based K-Means clustering approach.
+
 ---
 
 ## Conclusion
