@@ -37,7 +37,9 @@ The notebook includes:
 - Correlation heatmap (Kendall's τ) across R, F, M
 - Elbow / Silhouette / Calinski-Harabasz curves across candidate K values
 - Segment distribution and RFM heatmap by cluster
+  
 - Boxplots comparing RFM values across the four segments
+  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20by%20Cluster%20Boxplots.png
   
 - 2D PCA scatter plot of customer segments
 https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/PCA.png
