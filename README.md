@@ -34,9 +34,9 @@ Unlike a purely rule-based RFM approach, this project lets the data determine th
 
 The notebook includes:
 - RFM distribution histograms and boxplots (before/after transformation)
-   https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20RFM%20before%20Transformation.png
-  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20Transformed%20RFM.png
+  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20RFM%20before%20Transformation.png
 
+  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20Transformed%20RFM.png
   
 - Correlation heatmap (Kendall's τ) across R, F, M
 https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20Relationships%20and%20correlation.png
