@@ -36,7 +36,9 @@ The notebook includes:
 - RFM distribution histograms and boxplots (before/after transformation)
 - Correlation heatmap (Kendall's τ) across R, F, M
 - Elbow / Silhouette / Calinski-Harabasz curves across candidate K values
+
 - Segment distribution and RFM heatmap by cluster
+  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Average%20RFM%20%20by%20Segment.png
   
 - Boxplots comparing RFM values across the four segments
   https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20by%20Cluster%20Boxplots.png
