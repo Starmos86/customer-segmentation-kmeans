@@ -32,26 +32,27 @@ Unlike a purely rule-based RFM approach, this project lets the data determine th
 
 ## 📈 Visualizations
 
-The notebook includes:
-- RFM distribution histograms and boxplots (before/after transformation)
-  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20RFM%20before%20Transformation.png
+The notebook includes the following visual analyses:
 
-  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Distribution%20Transformed%20RFM.png
-  
-- Correlation heatmap (Kendall's τ) across R, F, M
-https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20Relationships%20and%20correlation.png
-  
-- Elbow / Silhouette / Calinski-Harabasz curves across candidate K values
-https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Elbow%20%26%20others.png
+- **RFM distribution histograms and boxplots (before and after transformation)**  
+  ![RFM Distribution Before Transformation](Images/rfm_distribution_before_transformation.png)
 
-- Segment distribution and RFM heatmap by cluster
-  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Average%20RFM%20%20by%20Segment.png
-  
-- Boxplots comparing RFM values across the four segments
-  https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20by%20Cluster%20Boxplots.png
-  
-- 2D PCA scatter plot of customer segments
-https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/PCA.png
+  ![RFM Distribution After Transformation](Images/rfm_distribution_after_transformation.png)
+
+- **Correlation heatmap (Kendall's τ) across Recency, Frequency, and Monetary values**  
+  ![RFM Correlation Heatmap](Images/rfm_correlation_heatmap_kendall_tau.png)
+
+- **Cluster validation metrics: Elbow Method, Silhouette Score, and Calinski-Harabasz Index across candidate K values**  
+  ![Cluster Validation Metrics](Images/cluster_validation_metrics.png)
+
+- **Segment distribution and average RFM profile by cluster**  
+  ![Average RFM by Segment](Images/average_rfm_by_segment.png)
+
+- **Boxplots comparing RFM characteristics across the four customer segments**  
+  ![RFM Cluster Boxplots](Images/rfm_cluster_boxplots.png)
+
+- **2D PCA visualization of customer segments**  
+  ![PCA Cluster Visualization](Images/pca_cluster_visualization.png)
 ---
 
 ## 📦 Dataset Information
