@@ -34,7 +34,9 @@ Unlike a purely rule-based RFM approach, this project lets the data determine th
 
 The notebook includes:
 - RFM distribution histograms and boxplots (before/after transformation)
+  
 - Correlation heatmap (Kendall's τ) across R, F, M
+https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/RFM%20Relationships%20and%20correlation.png
   
 - Elbow / Silhouette / Calinski-Harabasz curves across candidate K values
 https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/Elbow%20%26%20others.png
