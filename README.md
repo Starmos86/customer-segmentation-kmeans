@@ -38,6 +38,7 @@ The notebook includes:
 - Elbow / Silhouette / Calinski-Harabasz curves across candidate K values
 - Segment distribution and RFM heatmap by cluster
 - Boxplots comparing RFM values across the four segments
+  
 - 2D PCA scatter plot of customer segments
 https://github.com/Starmos86/KMeans-RFM-customer-Segmentation/blob/main/Images/PCA.png
 ---
